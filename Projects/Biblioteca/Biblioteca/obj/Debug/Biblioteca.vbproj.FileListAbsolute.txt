@@ -1,0 +1,22 @@
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.pdb
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.xml
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.vbprojResolveAssemblyReference.cache
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Form1.resources
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Resources.resources
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.vbproj.GenerateResource.Cache
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.xml
+c:\users\jhair\documents\visual studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Clientes.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Usuario.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Libros.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Movimientos.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.Devolucion.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ListaLPrestado.resources
+C:\Users\jhair\Documents\Visual Studio 2015\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.ListoLDevuelto.resources
+C:\Users\Andres Sanchez\Desktop\Projects\Biblioteca\Biblioteca\bin\Debug\Biblioteca.exe.config
+C:\Users\Andres Sanchez\Desktop\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.exe
+C:\Users\Andres Sanchez\Desktop\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.xml
+C:\Users\Andres Sanchez\Desktop\Projects\Biblioteca\Biblioteca\obj\Debug\Biblioteca.pdb
